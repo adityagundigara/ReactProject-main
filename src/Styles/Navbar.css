@@ -1,0 +1,35 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    margin-bottom: 38px;
+    justify-content: space-between;
+  }
+  .home {
+    margin: 22px;
+  }
+  
+  /* homepage.css */
+  .cart {
+    margin: 22px;
+  }
+  
+  .logopng {
+    height: 70px;
+    width: 70px;
+    margin-bottom: 23px;
+  }
+  .icons {
+    width: 60px;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 18px;
+    margin-right: 20px;
+    
+  }
+  .icons-faShoppingCart{
+   color: black;
+}
+.icons-faUser{
+    color: black;
+}
