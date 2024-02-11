@@ -29,6 +29,7 @@ const AddToCart = () => {
 
   return (
     <>
+   {/* //this is   code */}
    
     <div className="Outerclass2">
     <div className="container2">
